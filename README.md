@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Behrouz , officially Abdullah Karimi.
+- 👋 Hi, I’m Behrouz.
 - 👀 I’m passionate about combining data and web technologies.
 - 💞️ I’m looking to collaborate on innovative web and data-driven projects.
 - 📫 Feel free to reach out via LinkedIn or directly here on GitHub. I'm open to contributing and developing something cool together.
