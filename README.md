@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Behrouz.
-- 👀 I’m passionate about combining data and web technologies.
-- 📫 Feel free to reach out via LinkedIn or directly here on GitHub. I'm open to contributing and developing something cool together.
--  he/him
